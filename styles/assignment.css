@@ -1,0 +1,52 @@
+
+
+
+.inter-normal {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+/* shared atyle */
+.text-primary{
+    color:#4E47FF;
+}
+
+.btn-primary{
+    background-color: #4E47FF;
+    font-weight: bold;
+    font-size: 16px;
+    color: #FFFFFF;
+    border: none;
+    padding: 17px 35px;
+    border-radius: 10px;
+}
+
+
+/* nav styles */
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px 250px;
+}
+
+.nav-title{
+    font-size: 38px;
+}
+/* banner styles */
+.banner{
+    display: flex;
+}
+.banner-content{
+    max-width: 905px;
+}
+.banner-greetings{
+    font-size: 65px;
+    font-weight: 600;
+}
+.banner-title{
+    font-weight: bold;
+}
+
